@@ -1,0 +1,73 @@
+/* Tried Hard to add flexbox elements into this.
+But I felt very comfortable with what I got done and how I did it.
+Defintally going to practice flexbox!
+ would love some feetback on this!
+ */
+
+body{
+    text-align: center;
+}
+.main_body{
+    border: 1px solid black;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding-bottom: 5%;
+}
+
+#title{
+    text-align: center;
+}
+#sign{
+    text-align: left;
+    margin-left: 10%;
+}
+h5{
+    padding-bottom: .01%;
+}
+
+#name{
+    width: 35%;
+}
+.pass{
+    padding: ;
+    margin-top: ;
+    padding-top: ;
+    display: inline-flex;
+}
+#password{
+    margin-bottom:1%;
+    width: 35%
+    
+}
+#forgot_password{
+    text-decoration: none;
+}
+#forgot_password:hover{
+    text-decoration: underline;
+    color: crimson;
+}
+#continue{
+    margin-bottom: 16px;
+    height: 25px;
+    width: 250px;
+}
+#continue:hover{
+    background-color: gold;
+}
+#help{
+    text-decoration: none;
+}
+#help:hover{
+    text-decoration: underline;
+    color: crimson;
+}
+#account{
+    width: 35%;
+}
+#account:hover{
+    background-color: gold;
+}
+.last{
+    display: inline-block;
+}
+    
